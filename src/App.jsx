@@ -11,7 +11,7 @@ function App() {
     <Nav />
     <Routes>
       <Route index element={<Home />} />
-      <Route path="/lol" element={<Type />} />
+      <Route path="/typed" element={<Type />} />
     </Routes>
     </>
   )

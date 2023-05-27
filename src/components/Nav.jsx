@@ -7,9 +7,8 @@ const Nav = () => {
         <div className='flex justify-between gap-6'>
             <a href="/" className='font-black text-5xl'><p>N</p></a>
             <div className='my-auto uppercase font-bold flex gap-4'>
-                <a href="/lol"><p>Lol</p></a>
-                <p>Nothing</p>
-                <p>Idiot</p>
+                <a href="/typed"><p>typed</p></a>
+                <p>Framer</p>
             </div>
         </div>
     </div>
