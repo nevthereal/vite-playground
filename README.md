@@ -1,8 +1,9 @@
-# Vite / typed.js
+# Vite Playground
 
-This is my first Vite project and the first time I am using typed.js!
+This is my first Vite project! Here I just want to experument Vite, but also some other Libraries!
 
 # Technologies used:
 - Vite
-- typed.js: https://github.com/mattboldt/typed.js.git
+- typed.js: https://github.com/mattboldt/typed.js
 - Framer Motion
+- react-intersection-observer
